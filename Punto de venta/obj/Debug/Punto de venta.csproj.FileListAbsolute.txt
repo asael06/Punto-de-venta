@@ -1,0 +1,74 @@
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\Punto de venta.exe.config
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Properties.Resources.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto de venta.csproj.GenerateResource.Cache
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Clientes.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Ventanas.AgregarCliente.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.AgregarVentas.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Ventanas.Caja.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Ventanas.CajaInicial.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Ventanas.Cantidad.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.cerrar.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Ventanas.Cobrar.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Home.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Login.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Configuración.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Controles_de_Usuario.Credito.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Ventanas.Efectivo.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Homi.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Inventario.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Productos.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Registro.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Usuarios.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Ventas.resources
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\Punto de venta.exe
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\Punto de venta.pdb
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\System.Data.SQLite.dll
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto de venta.exe
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto de venta.pdb
+c:\users\asael\documents\visual studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\SQLite.Interop.dll
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\Punto de venta.exe.config
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\Punto de venta.exe
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\Punto de venta.pdb
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\itextsharp.dll
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\itextsharp.pdfa.dll
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\itextsharp.xtra.dll
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Clientes.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Configuración.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Controles_de_Usuario.Credito.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.Efectivo.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Homi.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Inventario.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Productos.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Registro.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Usuarios.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventas.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Properties.Resources.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.Abonos.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\WindowsFormsApplication1.Ventanas.AgregarArticulo.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.AgregarCliente.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.AgregarInventario.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.AgregarVentas.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.Caja.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.CajaInicial.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.Cantidad.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.cerrar.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.Cobrar.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.EstadoCuenta.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Home.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.Historial.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Login.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.Reporte.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto de venta.csproj.GenerateResource.Cache
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto de venta.exe
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto de venta.pdb
+C:\Users\Asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.FiFf.resources
+C:\Users\Asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.Confirmar.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.ReporteVentas.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto_de_venta.Ventanas.AgregarUsuario.resources
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto de venta.csprojAssemblyReference.cache
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto de venta.csproj.CoreCompileInputs.cache
+C:\Users\asael\OneDrive\Documentos\Visual Studio 2015\Projects\Punto de venta\Punto de venta\obj\Debug\Punto de venta.csproj.CopyComplete
